@@ -41,6 +41,6 @@ public class EchoApplication {
 
     @EventMapping
     public void handleDefaultMessageEvent(Event event) {
-        System.out.println("event: " + event);
+        System.out.println("Randy1209: " + event);
     }
 }
